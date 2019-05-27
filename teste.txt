@@ -1,3 +1,7 @@
 Arquivo incial de Teste do GIT
 
 Alterando o Arquivo de Teste do GIT
+
+Terceira alteração no arquivo do KIT - Novo Commit
+
+
